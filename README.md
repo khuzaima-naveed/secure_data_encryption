@@ -16,15 +16,3 @@ A Python-based secure data storage and retrieval system with user authentication
 ✅ **In-Memory Session Tracking**  
 ✅ **Secure Decryption Only With Correct Passkey**
 
----
-
-## 📋 Requirements
-
-- Python 3.7+
-- Streamlit
-- cryptography
-
-Install dependencies:
-
-```bash
-pip install streamlit cryptography
